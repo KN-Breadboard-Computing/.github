@@ -7,6 +7,6 @@ Visit our [page](https://kn-breadboard-computing.github.io/index.html)!
   - [Emulator](https://github.com/KN-Breadboard-Computing/emulator) 
   - [Assembler](https://github.com/KN-Breadboard-Computing/assembler)
   - [Verilog simulation](https://github.com/KN-Breadboard-Computing/computer)
-  - Machine
+  - Video card
 - [Digital circuit simulator](https://github.com/KN-Breadboard-Computing/simulator) [Paused]
 - 16-bit computer [Planned]
