@@ -1,6 +1,6 @@
 ## We are constructing 8bit computer!
 
-Visit our [page](https://kn-breadboard-computing.github.io/index.html)!
+Visit our [page](https://kn-bb-computing.pl/)!
 
 ## Current projects:
 - 8-bit computer [Ongoing]
